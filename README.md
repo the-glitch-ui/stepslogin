@@ -54,10 +54,7 @@ Current features:
    - Stateless Functional Components
    - Reusable components
    - Passing props
-   - PropTypes
    - Form validation
-   - Facades
-   - JSX
 
 2. JavaScript (ES2015 / ES6)
 
