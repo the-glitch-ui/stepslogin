@@ -16,7 +16,7 @@
 ## General info
 
 Multi-step login in React which includes validation and UI animations in CSS.
-This project's UI has inspiration in the vanilla Javascript tutorial by [(Dev Ed)] (https://developedbyed.com/).
+This project's UI has inspiration in the vanilla Javascript tutorial by [(Dev Ed)](https://developedbyed.com/).
 After finishing it, I decided to do as a personal exercise, to rebuild it from scratch by using my own knowledge in React + ES6+ and adding some additional functionalities.
 
 ## Screenshots
