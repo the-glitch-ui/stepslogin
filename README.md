@@ -21,7 +21,7 @@ After finishing it, I decided to do as a personal exercise, to rebuild it from s
 
 ## Screenshots
 
-![Message App](https://github.com/the-glitch-ui/stepslogin/blob/master/img_loginscreen.jpg)
+![Steps Login](https://github.com/the-glitch-ui/stepslogin/blob/gh-pages/img_loginscreen.jpg)
 
 ## Built with
 
