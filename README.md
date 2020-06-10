@@ -1,5 +1,4 @@
-# stepslogin
-> Multi-step login in React with validation
+# Multi-step login in React with validation
 
 > Demo: https://the-glitch-ui.github.io/stepslogin/
 
