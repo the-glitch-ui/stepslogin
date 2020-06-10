@@ -23,7 +23,7 @@ After finishing it, I decided to rebuild it from scratch as a personal exercise,
 
 ![Steps Login](https://github.com/the-glitch-ui/stepslogin/blob/master/img_loginscreen.jpg)
 
-## Screenshots
+## Structure
 
 ![Structure](https://github.com/the-glitch-ui/stepslogin/blob/master/login_structure.png)
 
