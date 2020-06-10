@@ -74,12 +74,10 @@ class LoginScreen extends Component {
   };
 
   validate = (name, value) => {
-    console.log(`validate ${name} : ${value}`);
     let errors = "";
     switch (name) {
       case "username":
         errors = value.length < 4 ? "At least 4 characters are required" : "";
-        console.log(`username errors ${errors}`);
         break;
       case "email":
         errors = this.regExp.test(value) ? "" : "Email address is invalid";
