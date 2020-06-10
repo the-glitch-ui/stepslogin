@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/stepslogin/static/css/main.e0df8feb.chunk.css",
+    "main.js": "/stepslogin/static/js/main.2553c4b2.chunk.js",
+    "main.js.map": "/stepslogin/static/js/main.2553c4b2.chunk.js.map",
+    "runtime-main.js": "/stepslogin/static/js/runtime-main.8b21d456.js",
+    "runtime-main.js.map": "/stepslogin/static/js/runtime-main.8b21d456.js.map",
+    "static/js/2.d9d2f373.chunk.js": "/stepslogin/static/js/2.d9d2f373.chunk.js",
+    "static/js/2.d9d2f373.chunk.js.map": "/stepslogin/static/js/2.d9d2f373.chunk.js.map",
+    "index.html": "/stepslogin/index.html",
+    "precache-manifest.26653dfeb0b9aa319132b9fb0ccd7b02.js": "/stepslogin/precache-manifest.26653dfeb0b9aa319132b9fb0ccd7b02.js",
+    "service-worker.js": "/stepslogin/service-worker.js",
+    "static/css/main.e0df8feb.chunk.css.map": "/stepslogin/static/css/main.e0df8feb.chunk.css.map",
+    "static/js/2.d9d2f373.chunk.js.LICENSE.txt": "/stepslogin/static/js/2.d9d2f373.chunk.js.LICENSE.txt",
+    "static/media/icon_login_arrow.svg": "/stepslogin/static/media/icon_login_arrow.3e9c517e.svg",
+    "static/media/icon_login_email.svg": "/stepslogin/static/media/icon_login_email.82189696.svg",
+    "static/media/icon_login_key.svg": "/stepslogin/static/media/icon_login_key.d04dfc48.svg",
+    "static/media/icon_login_user.svg": "/stepslogin/static/media/icon_login_user.a617dfb6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b21d456.js",
+    "static/js/2.d9d2f373.chunk.js",
+    "static/css/main.e0df8feb.chunk.css",
+    "static/js/main.2553c4b2.chunk.js"
+  ]
+}
